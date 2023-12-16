@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkcan Gürsoy</h1>
-<h3 align="center">Jr Frontend Developer</h3>
+<h3 align="center">Android & iOS Developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
